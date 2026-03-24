@@ -16,6 +16,22 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 ## Past Session Conversation Topics
 
+- **23 Mar 2026:**
+  - New format: let's demo / present!
+  - MathInc did an autonomous lean formalization of dimension-24
+	(following-up 2022 Fields Medal Maryna Viazovska), which raises
+	interesting questions about the future of mathlib
+  - New tools: Gauss, Aristotle, Leanstral
+  - LLM chatter: Gemini seems smartest but has a confidence issue, codex is
+	the practically smartest at the moment
+  - lean-libclang - goal of creating a lean bindgen
+  - [Equational Theories distillation
+	challenge](https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/)
+	from Terry Tao
+  - [Interview of Tao on Lean](https://www.youtube.com/watch?v=Q8Fkpi18QXU)
+  - [Gower's
+	Puzzles](https://gowers.wordpress.com/2026/03/20/group-and-semigroup-puzzles-and-a-possible-polymath-project/)
+	are some turing machine word games from a mathematician
 - **09 Feb 2026:**
   - Lean metaprogramming from Perry
   - Number theory part 3 from Gerhard
