@@ -16,6 +16,13 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 ## Past Session Conversation Topics
 
+- **30 Mar 2026:**
+  - Rado: [Zorn's lemma formalization][1] - took a Lean statement from
+	Tao's Analysis and prodded models until they got it to proofcheck
+  - Sudoku solvers and verso (lean docs tool)
+  - Pablo: von neumann game theory & nash equilib - constructively prove
+	that a nash equilib always exists
+  - Will: Property-based testing library
 - **23 Mar 2026:**
   - New format: let's demo / present!
   - MathInc did an autonomous lean formalization of dimension-24
@@ -39,3 +46,5 @@ server, which you can join by concatenating `https://discord.gg/` and
   - Number theory part 2 from Gerhard
 - **26 Jan 2026:**
   - Number theory part 1 from Gerhard
+
+[1]: https://en.wikipedia.org/wiki/Zorn%27s_lemma
