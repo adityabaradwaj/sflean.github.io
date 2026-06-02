@@ -16,6 +16,9 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 ## Past Session Conversation Topics
 
+- **1 Jun 2026:**
+  - Elliott presented on the proof of the independence of the continuum
+	hypothesis
 - **30 Mar 2026:**
   - Rado: [Zorn's lemma formalization][1] - took a Lean statement from
 	Tao's Analysis and prodded models until they got it to proofcheck
