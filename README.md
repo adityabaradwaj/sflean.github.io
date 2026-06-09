@@ -17,7 +17,7 @@ server, which you can join by concatenating `https://discord.gg/` and
 ## Past Session Conversation Topics
 
 - **8 Jun 2026:**
-  - Rado presented on Filters in Mathlib
+  - Rado presented on Filters in Mathlib [gslides][2] 
 - **1 Jun 2026:**
   - Elliott presented on the proof of the independence of the continuum
 	hypothesis
@@ -53,3 +53,4 @@ server, which you can join by concatenating `https://discord.gg/` and
   - Number theory part 1 from Gerhard
 
 [1]: https://en.wikipedia.org/wiki/Zorn%27s_lemma
+[2]: https://docs.google.com/presentation/d/1w6o-3BBk3Sn52XLOwiuIGfwvaw3x6VZj2Ya5fjX2Id8/edit
