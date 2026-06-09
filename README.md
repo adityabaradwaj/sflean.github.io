@@ -16,6 +16,8 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 ## Past Session Conversation Topics
 
+- **8 Jun 2026:**
+  - Rado presented on Filters in Mathlib
 - **1 Jun 2026:**
   - Elliott presented on the proof of the independence of the continuum
 	hypothesis
