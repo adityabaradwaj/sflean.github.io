@@ -16,6 +16,8 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 ## Past Session Conversation Topics
 
+- **15 Jun 2026:**
+  - Rado presented on Filters 2 in Mathlib and [jacobian-claude][3]
 - **8 Jun 2026:**
   - Rado presented on Filters in Mathlib [gslides][2] 
 - **1 Jun 2026:**
@@ -54,3 +56,4 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 [1]: https://en.wikipedia.org/wiki/Zorn%27s_lemma
 [2]: https://docs.google.com/presentation/d/1w6o-3BBk3Sn52XLOwiuIGfwvaw3x6VZj2Ya5fjX2Id8/edit
+[3]: http://github.com/rkirov/jacobian-claude
