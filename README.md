@@ -16,6 +16,8 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 ## Past Session Conversation Topics
 
+- **22 Jun 2026:**
+  - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]
 - **15 Jun 2026:**
   - Rado presented on Filters 2 in Mathlib and [jacobian-claude][3]
 - **8 Jun 2026:**
@@ -57,3 +59,5 @@ server, which you can join by concatenating `https://discord.gg/` and
 [1]: https://en.wikipedia.org/wiki/Zorn%27s_lemma
 [2]: https://docs.google.com/presentation/d/1w6o-3BBk3Sn52XLOwiuIGfwvaw3x6VZj2Ya5fjX2Id8/edit
 [3]: http://github.com/rkirov/jacobian-claude
+[4]: https://docs.google.com/presentation/d/1KliDGPNfI49_dib6Nbn1Gri8qx09_GlhunjuC_7ieS4/edit
+[5]: https://www.youtube.com/watch?v=x6GALs_x9Do
