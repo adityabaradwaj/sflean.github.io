@@ -16,6 +16,8 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 ## Past Session Conversation Topics
 
+- **29 Jun 2026:**
+  - ClocksSugars presented on Type Theory
 - **22 Jun 2026:**
   - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]
 - **15 Jun 2026:**
