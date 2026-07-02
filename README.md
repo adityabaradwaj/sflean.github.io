@@ -1,4 +1,4 @@
-# sflean.github.io
+# sflean.group
 
 Hello! We're a friendly Lean study group that meets at Mox SF on Mondays at 19:00 in late 2025 and early 2026. Our goal is to formalize the first five chapters of Terence Tao's Analysis textbook together in Lean.
 
