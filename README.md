@@ -17,7 +17,7 @@ server, which you can join by concatenating `https://discord.gg/` and
 ## Past Session Conversation Topics
 
 - **29 Jun 2026:**
-  - ClocksSugars presented on Type Theory
+  - ClocksSugars presented on Type Theory [slides][6] [video][7]
 - **22 Jun 2026:**
   - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]
 - **15 Jun 2026:**
@@ -63,3 +63,5 @@ server, which you can join by concatenating `https://discord.gg/` and
 [3]: http://github.com/rkirov/jacobian-claude
 [4]: https://docs.google.com/presentation/d/1KliDGPNfI49_dib6Nbn1Gri8qx09_GlhunjuC_7ieS4/edit
 [5]: https://www.youtube.com/watch?v=x6GALs_x9Do
+[6]: https://youtu.be/k2MOU7Q8N4w
+[7]: TypeTheoryForAgdaNoPause.pdf
