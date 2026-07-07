@@ -16,6 +16,8 @@ server, which you can join by concatenating `https://discord.gg/` and
 
 ## Past Session Conversation Topics
 
+- **06 Jul 2026:**
+  - Gerhard presented on aristotle
 - **29 Jun 2026:**
   - ClocksSugars presented on Type Theory [slides][6] [video][7]
 - **22 Jun 2026:**
