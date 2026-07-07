@@ -19,7 +19,7 @@ server, which you can join by concatenating `https://discord.gg/` and
 - **06 Jul 2026:**
   - Gerhard presented on aristotle
 - **29 Jun 2026:**
-  - ClocksSugars presented on Type Theory [slides][6] [video][7]
+  - ClocksSugars presented on Type Theory [slides][6] [video][7] [agda+lean code][8]
 - **22 Jun 2026:**
   - Will presented "Zero to Type Theory in 1 Hour" [slides][4] [video][5]
 - **15 Jun 2026:**
@@ -67,3 +67,4 @@ server, which you can join by concatenating `https://discord.gg/` and
 [5]: https://www.youtube.com/watch?v=x6GALs_x9Do
 [6]: https://youtu.be/k2MOU7Q8N4w
 [7]: TypeTheoryForAgdaNoPause.pdf
+[8]: https://github.com/rkirov/agda-lean
