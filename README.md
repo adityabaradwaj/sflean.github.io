@@ -4,7 +4,7 @@ Hello! We're a friendly group of Lean enthusiasts who meet weekly for a talk or 
 
 Our members include researchers, industry professionals, students, startup founders, consultants, curious community members — and hopefully YOU!
 
-One of the great things about Lean is that it attracts people from many disciplines: math, CS theory, AI, software engineering, cryptography, physics, and economics, to name a few. Our members come from all of these backgrounds, and we welcome others with any level of experience, [including none at all](#im-totally-new-to-lean-how-do-i-get-started).
+One of the great things about Lean is that it attracts people from many disciplines: math, CS theory, AI, software engineering, cryptography, physics, and economics, to name a few. Our members come from all of these backgrounds, and we welcome others with any level of experience, [including first timers](#im-totally-new-to-lean-how-do-i-get-started).
 
 While Lean is our focus, don't be surprised if you get pulled into conversations about programming languages, formal methods, or AI-assisted coding.
 
