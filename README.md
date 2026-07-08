@@ -14,7 +14,7 @@ While Lean is our focus, don't be surprised if you get pulled into conversations
 
 [Luma](https://luma.com/user/usr-IIea6zgV4whGCMX) has more information about upcoming talks and events.
 
-[Join the Discord](https://discord.gg/bXNPhQyjfe) to stay up to date on events and discussions. All our communication happens on Discord. 
+Join the Discord to stay up to date on events and discussions — concatenate `https://discord.gg/` and `bXNPh` and `Qyjfe` and paste into your browser. All our communication happens on Discord.
 
 
 ## Past Session Conversation Topics
