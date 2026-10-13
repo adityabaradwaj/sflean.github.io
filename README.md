@@ -32,8 +32,12 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 
 - **5 Oct 2026:**
   - ClocksSugars presented on Programming Language Foundations [slides][19] [coq/lean cheatsheet][20] [textbook][21]
+- **24 Aug 2026:**
+  - Coworking / small groups
 - **17 Aug 2026:**
   - Jasper Yao presented "Smooth Singularities in Neural Networks" [video][18]<br><a href="https://www.youtube.com/watch?v=cDtTs-3cSeg"><img src="https://img.youtube.com/vi/cDtTs-3cSeg/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
+- **10 Aug 2026:**
+  - Coworking / small groups
 - **3 Aug 2026:**
   - Vasily Ilin presented "Formalizing all Math, Autonomously & Reliably" [video][12]<br><a href="https://www.youtube.com/watch?v=mCf9MWYQJGA"><img src="https://img.youtube.com/vi/mCf9MWYQJGA/mqdefault.jpg" width="240" alt="Watch on YouTube"></a>
 - **27 Jul 2026:**
