@@ -16,6 +16,8 @@ While Lean is our focus, don't be surprised if you get pulled into conversations
 
 Join the Discord to stay up to date on events and discussions — concatenate `https://discord.gg/` and `bXNPh` and `Qyjfe` and paste into your browser. All our communication happens on Discord.
 
+Interested in sponsoring the meetup? See [our sponsor page](sponsors).
+
 
 <table>
   <tr>
