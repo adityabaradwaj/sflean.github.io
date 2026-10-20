@@ -32,7 +32,7 @@ Mention sponsors get their logo on the website and a thank-you from the front of
 
 | | Spotlight<br>2-minute hiring/talk slot |
 |---|---|
-| Single night | $500 |
+| Single night | $1,000 |
 
 Spotlight sponsors also get their logo on the website and on talk videos from that night.
 
