@@ -13,6 +13,8 @@ Every Monday, our members meet at [Mox SF](https://moxsf.com/) for a technical t
 - **Speakers who lead the field:** Alex Skidanov (co-founder, NEAR), Victor Taelin (creator of Bend and HVM), Vasily Ilin (MTS at Axiom and Director of the UW Math AI Lab), Arnav Mehta (Pramaana Labs), and many more.
 - **Every talk is recorded** and posted to [YouTube](https://www.youtube.com/channel/UCAA5ZP3KJkVjjJfJeZuCfiA) and X
 
+See [past talks](/) for what a typical meetup looks like.
+
 Sponsorship pays for food at the meetup, video production for our talks, and other incidental expenses.
 
 You should consider becoming a sponsor if any of these apply to you:
