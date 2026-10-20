@@ -12,8 +12,14 @@ Every Monday, our members meet at [Mox SF](https://moxsf.com/) for a technical t
 - **In the audience:** researchers, engineers, and mathematicians from many leading AI labs, as well as founders, investors, and enthusiasts. Our members include employees of OpenAI, Google, Jane Street, Axiom, Math Inc, Harmonic, Theorem, Pramaana Labs, and others.
 - **Speakers who lead the field:** Alex Skidanov (co-founder, NEAR), Victor Taelin (creator of Bend and HVM), Vasily Ilin (MTS at Axiom and Director of the UW Math AI Lab), Arnav Mehta (Pramaana Labs), and many more.
 - **Every talk is recorded** and posted to [YouTube](https://www.youtube.com/channel/UCAA5ZP3KJkVjjJfJeZuCfiA) and X
+- **What the room looks like:**
+
+<a href="files/photos/2026-10-12-skidanov-turnout.jpg"><img src="files/photos/2026-10-12-skidanov-turnout.jpg" alt="Attendance at an SF Lean Meetup talk"></a>
+<a href="files/photos/2026-07-06.jpg"><img src="files/photos/2026-07-06.jpg" alt="SF Lean Meetup session"></a>
+<a href="files/photos/2026-08-03.jpg"><img src="files/photos/2026-08-03.jpg" alt="SF Lean Meetup session"></a>
 
 See [past talks](/) for what a typical meetup looks like.
+
 
 Sponsorship pays for food at the meetup, video production for our talks, and other incidental expenses.
 
@@ -31,6 +37,10 @@ You should consider becoming a sponsor if any of these apply to you:
 | **Spotlight** — 2-minute hiring or talk slot | $1,000 | — |
 
 Quarterly sponsors get their logo on the website and on talk videos posted during that quarter.
+
+## Upcoming events
+
+<iframe src="https://luma.com/embed/calendar/cal-sH74lYQY3VGPEZh/events" width="600" height="450" frameborder="0" style="border: 1px solid #bfcbda88; border-radius: 4px; max-width: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0" title="SF Lean upcoming events on Luma"></iframe>
 
 **Something larger in mind?** [Reach out](mailto:adityabaradwaj97@gmail.com?subject=Sponsoring%20the%20SF%20Lean%20Meetup) and tell us what you're thinking — we're open to custom arrangements.
 
