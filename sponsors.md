@@ -4,14 +4,19 @@ title: Sponsor the SF Lean Meetup
 
 # Sponsor the SF Lean Meetup
 
-**The Bay Area's weekly gathering for people building with Lean and formal methods.** Every Monday at [Mox SF](https://moxsf.com/), researchers, engineers, mathematicians, and founders meet for a technical talk and stay late to talk shop.
+**The Bay Area's leading community for formal methods, software verification, AI, programming languages, and mathematics.**
 
-- **73 people registered** for this week's talk, up from 12 in September
-- **In the audience:** people from Google Research, the Mathlib Initiative, Accel, UC Berkeley, CMU, and many startups
-- **Speakers who lead the field:** Alex Skidanov (co-founder, NEAR), Victor Taelin (creator of Bend and HVM), Vasily Ilin, Arnav Mehta (Pramaana Labs), Martin Allen (o1Labs)
+Every Monday at [Mox SF](https://moxsf.com/), our members meet for a technical talk, followed by discussion and mingling.
+
+- **73 people registered** for the latest talk.
+- **In the audience:** researchers, engineers, and mathematicians from many leading AI labs, as well as founders, investors, and enthusiasts. Our members include employees of OpenAI, Google, Jane Street, Axiom, Math Inc, Harmonic, Theorem, Pramaana Labs, and others.
+- **Speakers who lead the field:** Alex Skidanov (co-founder, NEAR), Victor Taelin (creator of Bend and HVM), Vasily Ilin (MTS at Axiom and Director of the UW Math AI Lab), Arnav Mehta (Pramaana Labs), and many more.
 - **Every talk is recorded** and posted to [YouTube](https://www.youtube.com/channel/UCAA5ZP3KJkVjjJfJeZuCfiA) and X
 
-If your team hires for Lean, verification, or AI for math, this is the room.
+You should consider becoming a sponsor if:
+- Your team is hiring for expertise in formal verification, programming languages, or mathematics.
+- Your work involves Lean, Rocq, Agda, Metamath, SMT solvers, or something similar.
+- Your startup is looking for partners, co-founders, employees, or investors in this space.
 
 ## Sponsorship tiers (per quarter)
 
