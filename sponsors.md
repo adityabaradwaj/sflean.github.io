@@ -23,20 +23,12 @@ You should consider becoming a sponsor if any of these apply to you:
 
 ## Sponsorship
 
-| | Mention<br>thank-you at the start |
-|---|---|
-| Per meetup | $200 |
-| Per quarter | $2,000 |
+| | Per meetup<br>or single night | Per quarter |
+|---|---|---|
+| **Mention** — thank-you at the start | $200 | $2,000 |
+| **Spotlight** — 2-minute hiring or talk slot | $1,000 | &mdash; |
 
-Mention sponsors get a thank-you from the front of the room.
-
-| | Spotlight<br>2-minute hiring/talk slot |
-|---|---|
-| Single night | $1,000 |
-
-Spotlight sponsors get a 2-minute hiring or talk slot.
-
-All quarterly sponsors get their logo on the website and on talk videos posted during that quarter.
+Quarterly sponsors get their logo on the website and on talk videos posted during that quarter.
 
 **Something larger in mind?** [Reach out](mailto:adityabaradwaj97@gmail.com?subject=Sponsoring%20the%20SF%20Lean%20Meetup) and tell us what you're thinking — we're open to custom arrangements.
 
