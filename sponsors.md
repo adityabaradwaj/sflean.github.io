@@ -16,7 +16,8 @@ Every Monday at [Mox SF](https://moxsf.com/), our members meet for a technical t
 You should consider becoming a sponsor if any of these apply to you:
 - Your team is hiring for expertise in formal verification, programming languages, or mathematics.
 - Your work involves Lean, Rocq, Agda, Metamath, SMT solvers, or something similar.
-- Your startup is looking for partners, co-founders, employees, or investors in this space.
+- You're looking for partners, co-founders, employees, or investors in this space.
+- You want to build mindshare in this community
 
 ## Sponsorship
 
