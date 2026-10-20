@@ -26,7 +26,7 @@ You should consider becoming a sponsor if any of these apply to you:
 | | Per meetup<br>or single night | Per quarter |
 |---|---|---|
 | **Mention** — thank-you at the start | $200 | $2,000 |
-| **Spotlight** — 2-minute hiring or talk slot | $1,000 | &mdash; |
+| **Spotlight** — 2-minute hiring or talk slot | $1,000 | — |
 
 Quarterly sponsors get their logo on the website and on talk videos posted during that quarter.
 
