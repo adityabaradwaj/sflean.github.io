@@ -14,9 +14,9 @@ Every Monday, our members meet at [Mox SF](https://moxsf.com/) for a technical t
 - **Every talk is recorded** and posted to [YouTube](https://www.youtube.com/channel/UCAA5ZP3KJkVjjJfJeZuCfiA) and X
 - **What the room looks like:**
 
-<a href="files/photos/2026-10-12-skidanov-turnout.jpg"><img src="files/photos/2026-10-12-skidanov-turnout.jpg" alt="Attendance at an SF Lean Meetup talk"></a>
-<a href="files/photos/2026-07-06.jpg"><img src="files/photos/2026-07-06.jpg" alt="SF Lean Meetup session"></a>
-<a href="files/photos/2026-08-03.jpg"><img src="files/photos/2026-08-03.jpg" alt="SF Lean Meetup session"></a>
+<a href="https://sflean.group/files/photos/2026-10-12-skidanov-turnout.jpg"><img src="https://sflean.group/files/photos/2026-10-12-skidanov-turnout.jpg" alt="Attendance at an SF Lean Meetup talk"></a>
+<a href="https://sflean.group/files/photos/2026-07-06.jpg"><img src="https://sflean.group/files/photos/2026-07-06.jpg" alt="SF Lean Meetup session"></a>
+<a href="https://sflean.group/files/photos/2026-08-03.jpg"><img src="https://sflean.group/files/photos/2026-08-03.jpg" alt="SF Lean Meetup session"></a>
 
 See [past talks](/) for what a typical meetup looks like.
 
