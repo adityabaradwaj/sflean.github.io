@@ -32,4 +32,3 @@ Quarterly sponsors get their logo on the website and on talk videos posted durin
 
 **Something larger in mind?** [Reach out](mailto:adityabaradwaj97@gmail.com?subject=Sponsoring%20the%20SF%20Lean%20Meetup) and tell us what you're thinking — we're open to custom arrangements.
 
-Organizers choose all talks.
