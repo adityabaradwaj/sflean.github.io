@@ -13,7 +13,7 @@ Every Monday at [Mox SF](https://moxsf.com/), our members meet for a technical t
 - **Speakers who lead the field:** Alex Skidanov (co-founder, NEAR), Victor Taelin (creator of Bend and HVM), Vasily Ilin (MTS at Axiom and Director of the UW Math AI Lab), Arnav Mehta (Pramaana Labs), and many more.
 - **Every talk is recorded** and posted to [YouTube](https://www.youtube.com/channel/UCAA5ZP3KJkVjjJfJeZuCfiA) and X
 
-You should consider becoming a sponsor if:
+You should consider becoming a sponsor if any of these apply to you:
 - Your team is hiring for expertise in formal verification, programming languages, or mathematics.
 - Your work involves Lean, Rocq, Agda, Metamath, SMT solvers, or something similar.
 - Your startup is looking for partners, co-founders, employees, or investors in this space.
