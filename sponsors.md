@@ -6,7 +6,7 @@ title: Sponsor the SF Lean Meetup
 
 **The Bay Area's leading community for formal methods, software verification, AI, programming languages, and mathematics.**
 
-Every Monday at [Mox SF](https://moxsf.com/), our members meet for a technical talk, followed by discussion and mingling.
+Every Monday, our members meet at [Mox SF](https://moxsf.com/) for a technical talk by a community member, followed by discussion and mingling.
 
 - **73 people registered** for the latest talk.
 - **In the audience:** researchers, engineers, and mathematicians from many leading AI labs, as well as founders, investors, and enthusiasts. Our members include employees of OpenAI, Google, Jane Street, Axiom, Math Inc, Harmonic, Theorem, Pramaana Labs, and others.
@@ -32,3 +32,4 @@ Quarterly sponsors get their logo on the website and on talk videos posted durin
 
 **Something larger in mind?** [Reach out](mailto:adityabaradwaj97@gmail.com?subject=Sponsoring%20the%20SF%20Lean%20Meetup) and tell us what you're thinking — we're open to custom arrangements.
 
+Organizers choose all talks.
