@@ -1,5 +1,6 @@
 ---
 title: Sponsor the SF Lean Meetup
+redirect_from: /sponsors
 ---
 
 # Sponsor the SF Lean Meetup
@@ -31,7 +32,7 @@ You should consider becoming a sponsor if any of these apply to you:
 
 ## Sponsorship
 
-| | Per meetup<br>or single night | Per quarter |
+| | Per meetup | Per quarter |
 |---|---|---|
 | **Mention** — thank-you at the start | $200 | $2,000 |
 | **Spotlight** — 2-minute hiring or talk slot | $1,000 | — |
