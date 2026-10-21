@@ -14,9 +14,9 @@ Every Monday, our members meet at [Mox SF](https://moxsf.com/) for a technical t
 - **Every talk is recorded** and posted to [YouTube](https://www.youtube.com/channel/UCAA5ZP3KJkVjjJfJeZuCfiA) and X
 - **What the room looks like:**
 
-<a href="https://sflean.group/files/photos/2026-10-12-skidanov-turnout.jpg"><img src="https://sflean.group/files/photos/2026-10-12-skidanov-turnout.jpg" alt="Attendance at an SF Lean Meetup talk"></a>
-<a href="https://sflean.group/files/photos/2026-07-06.jpg"><img src="https://sflean.group/files/photos/2026-07-06.jpg" alt="SF Lean Meetup session"></a>
-<a href="https://sflean.group/files/photos/2026-08-03.jpg"><img src="https://sflean.group/files/photos/2026-08-03.jpg" alt="SF Lean Meetup session"></a>
+<a href="https://sflean.group/files/photos/2026-10-12-a.jpg"><img src="https://sflean.group/files/photos/2026-10-12-a.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
+<a href="https://sflean.group/files/photos/2026-10-12-b.jpg"><img src="https://sflean.group/files/photos/2026-10-12-b.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
+<a href="https://sflean.group/files/photos/2026-10-12-c.jpg"><img src="https://sflean.group/files/photos/2026-10-12-c.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
 
 See [past talks](/) for what a typical meetup looks like.
 
@@ -44,4 +44,3 @@ Quarterly sponsors get their logo on the website and on talk videos posted durin
 
 **Something larger in mind?** [Reach out](mailto:adityabaradwaj97@gmail.com?subject=Sponsoring%20the%20SF%20Lean%20Meetup) and tell us what you're thinking — we're open to custom arrangements.
 
-Organizers choose all talks.
