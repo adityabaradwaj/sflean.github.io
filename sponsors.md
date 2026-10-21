@@ -12,7 +12,6 @@ Every Monday, our members meet at [Mox SF](https://moxsf.com/) for a technical t
 - **In the audience:** researchers, engineers, and mathematicians from many leading AI labs, as well as founders, investors, and enthusiasts. Our members include employees of OpenAI, Google, Jane Street, Axiom, Math Inc, Harmonic, Theorem, Pramaana Labs, and others.
 - **Speakers who lead the field:** Alex Skidanov (co-founder, NEAR), Victor Taelin (creator of Bend and HVM), Vasily Ilin (MTS at Axiom and Director of the UW Math AI Lab), Arnav Mehta (Pramaana Labs), and many more.
 - **Every talk is recorded** and posted to [YouTube](https://www.youtube.com/channel/UCAA5ZP3KJkVjjJfJeZuCfiA) and X
-- **What the room looks like:**
 
 <a href="https://sflean.group/files/photos/2026-10-12-a.jpg"><img src="https://sflean.group/files/photos/2026-10-12-a.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
 <a href="https://sflean.group/files/photos/2026-10-12-b.jpg"><img src="https://sflean.group/files/photos/2026-10-12-b.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
