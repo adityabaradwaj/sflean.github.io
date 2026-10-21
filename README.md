@@ -34,6 +34,8 @@ Join the Discord to stay up to date on events and discussions — concatenate `h
 
 ## Past Session Conversation Topics
 
+- **19 Oct 2026:**
+  - Philippe Dumonet presented on interaction trees [slides][27]
 - **12 Oct 2026:**
   - Alex Skidanov presented price-performant Lean Eval with Deepseek + Forc [slides][22] [gslides][23]
 - **5 Oct 2026:**
@@ -142,3 +144,4 @@ Good luck! You can ask for help in the Discord server.
 [24]: https://www.youtube.com/watch?v=BdPhuzzbWaY
 [25]: https://www.youtube.com/watch?v=c--uaHWwiC0
 [26]: https://arxiv.org/abs/2608.25220
+[27]: files/2026-10-19-dumonet/itree-presentation.pdf
