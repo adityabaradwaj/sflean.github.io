@@ -1,5 +1,6 @@
 ---
 title: Sponsor the SF Lean Meetup
+redirect_from: /sponsors
 ---
 
 # Sponsor the SF Lean Meetup
