@@ -17,7 +17,7 @@ Every Monday, our members meet at [Mox SF](https://moxsf.com/) for a technical t
 <a href="https://sflean.group/files/photos/2026-10-12-b.jpg"><img src="https://sflean.group/files/photos/2026-10-12-b.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
 <a href="https://sflean.group/files/photos/2026-10-12-c.jpg"><img src="https://sflean.group/files/photos/2026-10-12-c.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
 
-See [past talks](/) for what a typical meetup looks like.
+See our past talks [here](/).
 
 
 Sponsorship pays for food at the meetup, video production for our talks, and other incidental expenses.
