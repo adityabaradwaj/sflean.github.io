@@ -16,6 +16,8 @@ While Lean is our focus, don't be surprised if you get pulled into conversations
 
 Join the Discord to stay up to date on events and discussions — concatenate `https://discord.gg/` and `bXNPh` and `Qyjfe` and paste into your browser. All our communication happens on Discord.
 
+Interested in sponsoring the meetup? See [our sponsor page](sponsors).
+
 ## Upcoming Events
 
 <iframe src="https://luma.com/embed/calendar/cal-sH74lYQY3VGPEZh/events" width="600" height="450" frameborder="0" style="border: 1px solid #bfcbda88; border-radius: 4px; max-width: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0" title="SF Lean upcoming events on Luma"></iframe>
