@@ -23,6 +23,7 @@ See our past talks [here](/).
 Sponsorship pays for food at the meetup, video production for our talks, and other incidental expenses.
 
 You should consider becoming a sponsor if any of these apply to you:
+
 - Your team is hiring for expertise in formal verification, programming languages, or mathematics.
 - Your work involves Lean, Rocq, Agda, Metamath, SMT solvers, or something similar.
 - You're looking for partners, co-founders, employees, or investors in this space.
