@@ -6,3 +6,6 @@ defaults:
     values:
       title: "SF Lean Group @ Mox SF, 1680 Mission St (ask for door code in Discord)"
       image: /files/photos/2026-07-06.jpg
+
+plugins:
+  - jekyll-redirect-from
