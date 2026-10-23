@@ -39,9 +39,8 @@ You should consider becoming a sponsor if any of these apply to you:
 
 Quarterly sponsors get their logo on the website and on talk videos posted during that quarter.
 
+**Something larger in mind?** [Reach out](mailto:adityabaradwaj97@gmail.com?subject=Sponsoring%20the%20SF%20Lean%20Meetup) and tell us what you're thinking — we're open to custom arrangements.
+
 ## Upcoming events
 
 <iframe src="https://luma.com/embed/calendar/cal-sH74lYQY3VGPEZh/events" width="600" height="450" frameborder="0" style="border: 1px solid #bfcbda88; border-radius: 4px; max-width: 100%;" allowfullscreen="" aria-hidden="false" tabindex="0" title="SF Lean upcoming events on Luma"></iframe>
-
-**Something larger in mind?** [Reach out](mailto:adityabaradwaj97@gmail.com?subject=Sponsoring%20the%20SF%20Lean%20Meetup) and tell us what you're thinking — we're open to custom arrangements.
-
