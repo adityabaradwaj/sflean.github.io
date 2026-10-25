@@ -34,8 +34,8 @@ You should consider becoming a sponsor if any of these apply to you:
 
 | | Per meetup | Per quarter |
 |---|---|---|
-| **Gold** — thank-you at the start | $500 | $5,000 |
-| **Platinum** — 2-minute hiring or talk slot | $2,500 | — |
+| **Supporter** — thank-you at the start | $500 | $5,000 |
+| **Partner** — 2-minute hiring or talk slot | $2,500 | — |
 
 Quarterly sponsors get their logo on the website and on talk videos posted during that quarter.
 
