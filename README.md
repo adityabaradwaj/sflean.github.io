@@ -16,6 +16,8 @@ While Lean is our focus, don't be surprised if you get pulled into conversations
 
 [Join the Discord](https://discord.gg/bXNPhQyjfe) to stay up to date on events and discussions. All our communication happens on Discord.
 
+Want to give a talk? [Propose one here](https://forms.gle/CFDXSVvv4B7hyq8P6).
+
 Interested in sponsoring the meetup? See [our sponsor page](sponsor).
 
 ## Upcoming Events
