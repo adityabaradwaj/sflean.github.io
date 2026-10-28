@@ -27,6 +27,10 @@ Interested in sponsoring the meetup? See [our sponsor page](sponsor).
 
 <table>
   <tr>
+    <td><a href="files/photos/2026-10-26-a.jpg"><img src="files/photos/2026-10-26-a.jpg" width="400" alt="Full house for Victor Taelin's talk at the SF Lean Meetup"></a></td>
+    <td><a href="files/photos/2026-10-26-b.jpg"><img src="files/photos/2026-10-26-b.jpg" width="400" alt="Full house for Victor Taelin's talk at the SF Lean Meetup"></a></td>
+  </tr>
+  <tr>
     <td><a href="files/photos/2026-08-03.jpg"><img src="files/photos/2026-08-03.jpg" width="400" alt="SF Lean session at Mox SF"></a></td>
     <td><a href="files/photos/2026-07-06.jpg"><img src="files/photos/2026-07-06.jpg" width="400" alt="SF Lean session at Mox SF"></a></td>
   </tr>
