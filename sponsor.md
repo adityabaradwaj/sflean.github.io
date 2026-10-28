@@ -14,6 +14,8 @@ Every Monday, our members meet at [Mox SF](https://moxsf.com/) for a technical t
 - **Speakers who lead the field:** Alex Skidanov (co-founder, NEAR), Victor Taelin (creator of Bend and HVM), Vasily Ilin (MTS at Axiom and Director of the UW Math AI Lab), Arnav Mehta (Pramaana Labs), and many more.
 - **Every talk is recorded** and posted to [YouTube](https://www.youtube.com/channel/UCAA5ZP3KJkVjjJfJeZuCfiA) and X
 
+<a href="https://sflean.group/files/photos/2026-10-26-a.jpg"><img src="https://sflean.group/files/photos/2026-10-26-a.jpg" width="49%" alt="Full house for Victor Taelin's talk at the SF Lean Meetup"></a>
+<a href="https://sflean.group/files/photos/2026-10-26-b.jpg"><img src="https://sflean.group/files/photos/2026-10-26-b.jpg" width="49%" alt="Full house for Victor Taelin's talk at the SF Lean Meetup"></a>
 <a href="https://sflean.group/files/photos/2026-10-12-a.jpg"><img src="https://sflean.group/files/photos/2026-10-12-a.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
 <a href="https://sflean.group/files/photos/2026-10-12-b.jpg"><img src="https://sflean.group/files/photos/2026-10-12-b.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
 <a href="https://sflean.group/files/photos/2026-10-12-c.jpg"><img src="https://sflean.group/files/photos/2026-10-12-c.jpg" width="32%" alt="Packed room at the SF Lean Meetup"></a>
